@@ -1,0 +1,59 @@
+* {
+  font-family: sans-serif;
+}
+
+html, body {
+  margin: 10px;
+  margin-top: 65px;
+}
+
+#header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  padding: 20px;
+  background: yellow;
+}
+
+#signButton {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+#uniform {
+  width: 100vw;
+  height: 100vh;
+}
+
+#uniform img {
+  width: 80vw;
+}
+
+#close {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+#community {
+  width: 80vw;
+  margin: 0px;
+  padding: 10px;
+  background: lightgray;
+}
+
+#communityHeader {
+  margin: 0;
+}
+
+.article {
+  margin: 5px;
+  border: 1px solid black;
+  font-size: 10px;
+}
+
+.article p {
+  margin-left: 10px;
+}
